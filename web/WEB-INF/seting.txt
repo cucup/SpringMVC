@@ -1,0 +1,2 @@
+<param-value>/WEB-INF/applicationContext.xml</param-value>
+<url-pattern>*.form</url-pattern>
